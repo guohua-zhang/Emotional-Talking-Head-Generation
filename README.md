@@ -1,5 +1,9 @@
 # Learning Symmetrical Cross-Modal Correlations for Speech-Preserving Facial Expression Manipulation
 
+<p align="center">
+<img src="./.images/edited_videos.webp" width="100%"/>
+</p>
+
 This repository contains the source code for our work:
 
 > **Maintainer: Guohua Zhang**<br>
